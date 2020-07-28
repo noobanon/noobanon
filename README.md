@@ -14,7 +14,7 @@
 - 🕵️ **Just Learning.**
 - 💳 **Owner Of Xploitcrew [Join Now](https://xploitcrew.io)**
 - 🕵️ **Need me Msg Me: on Tg == [@noobanon](https://t.me/noobanon)**
-- ☠️ **There is no where to hide**.
+- ☠️ **There's no where to hide**.
 ---
 ### Status
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=noobanon&theme=tokyonight&show_icons=true)
