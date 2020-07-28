@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**noobanon/noobanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey People's
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![telegram badge](https://img.shields.io/badge/Anon-blue?style=flat&logo=telegram)](https://t.me/noobanon)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/noobanon)
+
+---
+### About meh;)
+
+- 🔭 **Currently Noob.**
+- 🕵️ **Just Learning.**
+- 💳 **Owner Of Xploitcrew [Join Now](https://xploitcrew.io)**
+- 🕵️ **Need me Msg Me: on Tg == [@noobanon](https://t.me/noobanon)**
+- ☠️ **There is no where to hide**.
+---
+### Status
+![Git Stats](https://github-readme-stats.vercel.app/api?username=noobanon&theme=tokyonight&show_icons=true)
+
