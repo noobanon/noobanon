@@ -12,7 +12,7 @@
 
 - 🔭 **Currently Noob.**
 - 🕵️ **Just Learning.**
-- 💳 **Owner Of Xploitcrew [Join Now](https://xploitcrew.io)**
+- 💳 **Owner Of Xploitcrew [Join Now](https://xploitcrew.com)**
 - 🕵️ **Need me Msg Me: on Tg == [@noobanon](https://t.me/noobanon)**
 - ☠️ **There's no where to hide**.
 ---
