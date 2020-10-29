@@ -5,7 +5,7 @@
 
 
 
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](noobanon@pm.me)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:noobanon@pm.me)
 
 
 ---
