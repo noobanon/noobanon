@@ -18,9 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobanon&layout=compact)](https://github.com/noobanon/github-readme-stats)
 
-<a href="https://github.com/noobanon/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/noobanon/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noobanon&repo=convoychat" />
-</a>
+
