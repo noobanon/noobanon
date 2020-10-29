@@ -10,6 +10,8 @@
   </a>&nbsp;&nbsp; 
 </a>&nbsp;&nbsp; <a href="https://t.me/noobanon">
     <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge" />        
+  </a>&nbsp;&nbsp; </a>&nbsp;&nbsp; <a mailto:noobanon@pm.me>
+    <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" />        
   </a>&nbsp;&nbsp; </p>
 
 <h2 align='center'> Hey People's I'm unknown person known as noobanon most of peoples knows me its my though not ego 😅 but if you need help you can contact me </h2>
