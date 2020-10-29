@@ -13,6 +13,7 @@
   </a>&nbsp;&nbsp; </a>&nbsp;&nbsp; <a href="mailto:noobanon@pm.me">
     <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" />   
   </a>&nbsp;&nbsp; </p>
+<p align='center'> <code> NOTE: INSTAGRAM IS CURRENTLY DISABLED </code> </p>
 
 <h2 align='center'> Hey People's I'm unknown person known as noobanon most of peoples knows me its my though not ego 😅 but if you need help you can contact me </h2>
 
