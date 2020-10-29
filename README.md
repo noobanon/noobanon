@@ -7,7 +7,7 @@
 
 [![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/noobanon)
 
-[![Telegram](https://img.shields.io/badge/THE%20ANON-%40NOOBANON-red)](https://t.me/noobanon(
+[![Telegram](https://img.shields.io/badge/THE%20ANON-%40NOOBANON-red)](https://t.me/noobanon)
 
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:noobanon@pm.me)
 
