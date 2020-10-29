@@ -1,20 +1,13 @@
 
 
-### Hey People's
+### Hey People's I'm unknown person known as noobanon most of peoples knows me i its my though not ego 😅 but if you need help you can contact me 
 
 
-[![telegram badge](https://img.shields.io/badge/Anon-blue?style=flat&logo=telegram)](https://t.me/noobanon)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/noobanon)
 
----
-### About meh;)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](noobanon@pm.me)
 
-- 🔭 **Currently Noob.**
-- 🕵️ **Just Learning.**
-- 💳 **Owner Of Xploitcrew [Join Now](https://xploitcrew.com)**
-- 🕵️ **Need me Msg Me: on Tg == [@noobanon](https://t.me/noobanon)**
-- ☠️ **There's no where to hide**.
+
 ---
 ### Status
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=noobanon&theme=tokyonight&show_icons=true)
