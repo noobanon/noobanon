@@ -1,4 +1,4 @@
-<img src="https://github.com/noobanon/noobanon/blob/master/EVqprPj.jpg>
+<img src="https://github.com/noobanon/noobanon/blob/master/EVqprPj.jpg">
 
 ### Hey People's I'm unknown person known as noobanon most of peoples knows me its my though not ego 😅 but if you need help you can contact me 
 
